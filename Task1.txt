@@ -1,0 +1,3 @@
+zadanie Jira 100
+
+logowanie  użytkowników
